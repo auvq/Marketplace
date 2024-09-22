@@ -1,0 +1,13 @@
+me\auvq\marketplace\command\TransactionsCommand.class
+me\auvq\marketplace\gui\MarketplaceGUI.class
+me\auvq\marketplace\MarketItem.class
+me\auvq\marketplace\gui\BlackMarketGUI.class
+me\auvq\marketplace\MarketPlugin.class
+me\auvq\marketplace\command\AdminCommand.class
+me\auvq\marketplace\gui\ConfirmationGUI.class
+me\auvq\marketplace\command\SellCommand.class
+me\auvq\marketplace\command\BlackmarketCommand.class
+me\auvq\marketplace\manager\MarketManager.class
+me\auvq\marketplace\command\MarketCommand.class
+me\auvq\marketplace\manager\DatabaseManager.class
+me\auvq\marketplace\utils\CC.class

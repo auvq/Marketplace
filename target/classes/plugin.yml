@@ -1,0 +1,6 @@
+name: Marketplace
+version: '1.0'
+main: me.auvq.marketplace.MarketPlugin
+api-version: '1.20'
+soft-depend:
+  - Vault

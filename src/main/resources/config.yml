@@ -1,0 +1,17 @@
+mongo:
+  connectionString: ""
+  databaseName: ""
+
+
+gui-titles:
+  marketplace-gui-title: "&6Marketplace"
+  confirmation-gui-title: "&6Confirmation"
+  blackmarket-gui-title: "&6Black Market"
+
+marketplace-item-lore:
+  - "&7Price: &6$%price%"
+  - "&7Seller: &6%seller%"
+
+blackmarket-item-lore:
+    - "&7Price: &6&m$%original_price% &7-> &6$%discounted_price%"
+    - "&7Seller: &6%seller%"
